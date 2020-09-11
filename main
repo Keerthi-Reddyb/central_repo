@@ -1,0 +1,7 @@
+#inclode <stdio.h>
+
+ main() {
+ fact() ;
+ rev() ;
+ pali() ;
+ }
