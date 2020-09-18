@@ -8,3 +8,6 @@ palindrome.o:palindrome.c
 	gcc -c palindrome.c
 main.o:main.c
 	gcc -c main.c
+	
+clean:
+	rm -rf *.exe *.o
